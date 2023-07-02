@@ -19,7 +19,7 @@
     <?php
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $text = $_POST['text'];
-        
+        //hammaad
         // Define the translations for Roman Urdu characters
         $translations = array(
             'a' => 'ا',
